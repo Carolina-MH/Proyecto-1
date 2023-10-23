@@ -2,7 +2,7 @@
 
 ## Introducción
 
-![encabezado](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
+![encabezado](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/encabezado.png)
 
 La finalidad de este proyecto es poner en práctica el proceso completo del análisis de datos: desde la limpieza y exploración inicial de los datos, hasta la presentación de las conclusiones fundamentadas.
 
@@ -64,26 +64,26 @@ Para lograr mi obejtivo, he seleccionado varias columnas clave del conjunto de d
 
 Una vez organizada la tabla para estudiar mejor los datos en mi análisis. Exploré los países y áreas con el mayor número de ataques y así indentifiqué las ubicaciones más peligrosas.
 
-![paises_con_mas_ataques_de_tiburones](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
-![areas_con_mas_ataques_de_tiburones](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
+![paises_con_mas_ataques_de_tiburones](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/paises_con_mas_ataques_de_tiburones.png)
+![areas_con_mas_ataques_de_tiburones](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/areas_con_mas_ataques_de_tiburones.png)
 
 Observando las dos gráficas 'contry' y 'area' , he llegado a la conclusión de que USA es el país con más ataques de tiburones (2025), y dentro de USA, el área de Florida tiene la mayor cantidad de ataques (961).
 
 Una vez establecido el país y el área que esta más afectado por ataques de tiburones, continué explorando la columna 'type' para el área de Florida. Así indentifiqué qué tipos de ataques son más comunes en esa región específica y, por lo tanto, obtuve una comprensión más detallada de la peligrosidad de las actividades en esa área.
 
-![tipo_de_ataques](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
+![tipo_de_ataques](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/tipo_de_ataques.png)
 
 En Florida, el tipo de ataque de tiburón más común es el "Unprovoked" (No provocado), con 858 casos registrados.
 
 Una vez en este punto, exploré la relación entre los tipos de ataques 'unprovoked' en Florida y las actividades involucradas.
 
-![ataques_por_actividad](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
+![ataques_por_actividad](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/ataques_por_actividad.png)
 
 Esta gráfica demuestra que, en Florida, los ataques de tiburones bajo la categoría 'Unprovoked' ocurren con mayor frecuencia surfeando, destacando la importancia de la prevención y la seguridad para los srufista en esa área.
 
 A continuación estudié las especies que fueran más comunes en los ataques en Florida, en la actividad sur y asu vez no provocados.
 
-![especie_de_tiburones](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
+![especie_de_tiburones](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/especie_de_tiburones.png)
 
 La alta presencia de 'desconocido' en la columna 'species_' sugiere que la identificación de la especie del tiburón en muchos casos es difícil o imposible de determinar, lo que puede deberse a la falta de información o a la complejidad de identificar con precisión la especie en situaciones de ataques de tiburones.
 
@@ -91,7 +91,7 @@ La alta presencia de 'desconocido' en la columna 'species_' sugiere que la ident
 
 Por último, exploré si estos ataques de tiburones eran mortales o no hacer al hacer surf en Florida(USA), sumando también que no fueran provocados y además que las especies fueran desconocidas o tiburones blancos.
 
-![ataques_fatales](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/felisida.gif)
+![ataques_fatales](https://github.com/Carolina-MH/Proyecto-1/blob/main/img/ataques_fatales.png)
 
 ## Conclusión
 
